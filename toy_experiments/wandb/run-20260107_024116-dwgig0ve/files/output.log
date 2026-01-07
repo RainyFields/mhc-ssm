@@ -1,0 +1,4 @@
+--> Starting: standard | H2_VOC4096_std
+    Params: 1.7154M
+standard Step 11999: Loss 8.3159 | Acc 0.0005
+Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H2_VOC4096_std.pth

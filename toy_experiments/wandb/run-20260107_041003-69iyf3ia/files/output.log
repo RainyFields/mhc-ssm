@@ -1,0 +1,4 @@
+--> Starting: mhc | H5_FUZZY_mhc
+    Params: 0.6792M
+mhc Step 9999: Loss 4.1603 | Acc 0.0000
+Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H5_FUZZY_mhc.pth

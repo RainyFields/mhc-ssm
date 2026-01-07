@@ -1,0 +1,13 @@
+task: in-context-recall
+vocab_size: 32
+seq_len: 256
+multi_query: False
+noise_vocab_size: 0
+frac_noise: 0.0
+target_ignore_idx: -100
+
+training:
+  batch_size: 64
+  max_train_steps: 25000  # Give it a bit more room for the copying task
+  validate_every: 1000
+  validation_samples: 512 # How many samples to check accuracy on

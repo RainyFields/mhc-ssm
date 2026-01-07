@@ -1,0 +1,4 @@
+--> Starting: standard | H2_VOC1024_std
+    Params: 0.9259M
+standard Step 9999: Loss 6.9252 | Acc 0.0025
+Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H2_VOC1024_std.pth

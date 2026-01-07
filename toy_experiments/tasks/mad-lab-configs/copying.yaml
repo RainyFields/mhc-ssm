@@ -1,0 +1,6 @@
+task: copying
+vocab_size: 24       # Keep vocab small to focus on the time-lag
+seq_len: 512         # Longer sequence to stress-test the SSM state
+num_tokens_to_copy: 16
+selective: False
+target_ignore_idx: -100

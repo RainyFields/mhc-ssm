@@ -1,0 +1,6 @@
+task: compression
+vocab_size: 32
+seq_len: 256
+frac_noise: 0.1      # 10% noise to make compression non-trivial
+noise_vocab_size: 5
+target_ignore_idx: -100

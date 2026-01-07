@@ -1,0 +1,12 @@
+{"time":"2026-01-07T06:10:28.782995173Z","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2026-01-07T06:10:29.51046565Z","level":"INFO","msg":"stream: created new stream","id":"ccgjp4i2"}
+{"time":"2026-01-07T06:10:29.510701823Z","level":"INFO","msg":"stream: started","id":"ccgjp4i2"}
+{"time":"2026-01-07T06:10:29.510834197Z","level":"INFO","msg":"handler: started","stream_id":"ccgjp4i2"}
+{"time":"2026-01-07T06:10:29.510906816Z","level":"INFO","msg":"writer: started","stream_id":"ccgjp4i2"}
+{"time":"2026-01-07T06:10:29.510934719Z","level":"INFO","msg":"sender: started","stream_id":"ccgjp4i2"}
+{"time":"2026-01-07T09:41:11.62442788Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-07T09:41:11.860170014Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-01-07T09:41:11.862552547Z","level":"INFO","msg":"stream: closing","id":"ccgjp4i2"}
+{"time":"2026-01-07T09:41:11.862577811Z","level":"INFO","msg":"handler: closed","stream_id":"ccgjp4i2"}
+{"time":"2026-01-07T09:41:11.862661996Z","level":"INFO","msg":"sender: closed","stream_id":"ccgjp4i2"}
+{"time":"2026-01-07T09:41:11.862668636Z","level":"INFO","msg":"stream: closed","id":"ccgjp4i2"}

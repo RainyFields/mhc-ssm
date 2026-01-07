@@ -1,0 +1,12 @@
+task: selective-copying
+vocab_size: 24
+seq_len: 512
+num_tokens_to_copy: 16
+selective: True
+target_ignore_idx: -100
+
+training:
+  batch_size: 64
+  max_train_steps: 25000  # Give it a bit more room for the copying task
+  validate_every: 1000
+  validation_samples: 512 # How many samples to check accuracy on

@@ -1,0 +1,16 @@
+{
+    "exp_id": "H3_LAYERS16",
+    "mode": "std_vs_mhc",
+    "task": "copy",
+    "result_dir": "/work/lei/mhc-ssm/toy_experiments/results",
+    "ckpt_dir": "/work/lei/mhc-ssm/toy_experiments/checkpoints",
+    "d_model": 128,
+    "n_layers": 16,
+    "vocab": 64,
+    "seq": 256,
+    "bs": 32,
+    "steps": 10000,
+    "lr": 0.001,
+    "streams": 4,
+    "target_acc": 0.999
+}

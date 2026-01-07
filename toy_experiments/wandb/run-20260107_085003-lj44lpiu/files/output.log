@@ -1,0 +1,4 @@
+--> Starting: mhc | H3_LAYERS16_mhc
+    Params: 2.6673M
+mhc Step 9999: Loss 1.7084 | Acc 0.3989
+Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H3_LAYERS16_mhc.pth

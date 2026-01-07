@@ -1,0 +1,12 @@
+{"time":"2026-01-07T04:18:35.1840849Z","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2026-01-07T04:18:35.584467174Z","level":"INFO","msg":"stream: created new stream","id":"azk9moib"}
+{"time":"2026-01-07T04:18:35.584581505Z","level":"INFO","msg":"handler: started","stream_id":"azk9moib"}
+{"time":"2026-01-07T04:18:35.584638029Z","level":"INFO","msg":"stream: started","id":"azk9moib"}
+{"time":"2026-01-07T04:18:35.584639272Z","level":"INFO","msg":"writer: started","stream_id":"azk9moib"}
+{"time":"2026-01-07T04:18:35.584666563Z","level":"INFO","msg":"sender: started","stream_id":"azk9moib"}
+{"time":"2026-01-07T05:54:49.090859621Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-07T05:54:49.324222572Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-01-07T05:54:49.3262326Z","level":"INFO","msg":"stream: closing","id":"azk9moib"}
+{"time":"2026-01-07T05:54:49.326245018Z","level":"INFO","msg":"handler: closed","stream_id":"azk9moib"}
+{"time":"2026-01-07T05:54:49.326312771Z","level":"INFO","msg":"sender: closed","stream_id":"azk9moib"}
+{"time":"2026-01-07T05:54:49.326320267Z","level":"INFO","msg":"stream: closed","id":"azk9moib"}

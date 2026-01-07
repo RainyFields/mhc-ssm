@@ -1,0 +1,13 @@
+task: fuzzy-in-context-recall
+vocab_size: 32
+seq_len: 256
+k_motif_size: 3      # Keys are sequences of 3 tokens
+v_motif_size: 3      # Values are sequences of 3 tokens
+multi_query: False
+target_ignore_idx: -100
+
+training:
+  batch_size: 64
+  max_train_steps: 25000  # Give it a bit more room for the copying task
+  validate_every: 1000
+  validation_samples: 512 # How many samples to check accuracy on

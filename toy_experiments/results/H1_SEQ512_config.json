@@ -1,0 +1,16 @@
+{
+    "exp_id": "H1_SEQ512",
+    "mode": "std_vs_mhc",
+    "task": "copy",
+    "result_dir": "/work/lei/mhc-ssm/toy_experiments/results",
+    "ckpt_dir": "/work/lei/mhc-ssm/toy_experiments/checkpoints",
+    "d_model": 128,
+    "n_layers": 4,
+    "vocab": 64,
+    "seq": 512,
+    "bs": 32,
+    "steps": 12000,
+    "lr": 0.001,
+    "streams": 4,
+    "target_acc": 0.9
+}

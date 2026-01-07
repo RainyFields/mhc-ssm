@@ -1,0 +1,4 @@
+--> Starting: mhc | H4_NOMIXER_mhc
+    Params: 0.6792M
+mhc Step 11999: Loss 0.1881 | Acc 0.9348
+Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H4_NOMIXER_mhc.pth

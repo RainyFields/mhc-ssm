@@ -1,0 +1,124 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            fdr4solw4sl8wbw4aucukkn06sac819m:
+                args:
+                    - --exp_id
+                    - H1_SEQ512
+                    - --mode
+                    - std_vs_mhc
+                    - --seq
+                    - "512"
+                    - --task
+                    - copy
+                    - --steps
+                    - "12000"
+                codePath: mhc_universal.py
+                codePathLocal: mhc_universal.py
+                cpu_count: 112
+                cpu_count_logical: 224
+                cudaVersion: "12.8"
+                disk:
+                    /:
+                        total: "900072767488"
+                        used: "700911468544"
+                email: xiaoxuan.lei.claire@gmail.com
+                executable: /home/lei/miniconda3/envs/topk2/bin/python
+                gpu: NVIDIA H100 80GB HBM3
+                gpu_count: 8
+                gpu_nvidia:
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-838b2c4a-87cc-2b87-89e0-21318bf593c4
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-062d1f58-9a01-7f4c-e389-2d9d5227aab5
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-a06915f0-d509-19b7-38a8-bb119d4530fc
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-bedc342d-58ea-cc18-44c4-3d13e6098b29
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-1f49b444-4945-85fb-59e0-d28b452c0a65
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-86fa37bf-920f-0e05-3eca-82731393c3e2
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-90483f06-bb5d-2c40-2291-3db39c54cc66
+                    - architecture: Hopper
+                      cudaCores: 16896
+                      memoryTotal: "85520809984"
+                      name: NVIDIA H100 80GB HBM3
+                      uuid: GPU-803c084b-6566-e2d2-44f3-889d5bc7e3be
+                host: lux-2-node-04
+                memory:
+                    total: "2163941576704"
+                os: Linux-5.15.0-138-generic-x86_64-with-glibc2.35
+                program: /work/lei/mhc-ssm/toy_experiments/mhc_universal.py
+                python: CPython 3.11.14
+                root: /work/lei/mhc-ssm/toy_experiments
+                startedAt: "2026-01-07T09:41:12.227454Z"
+                writerId: fdr4solw4sl8wbw4aucukkn06sac819m
+        m: []
+        python_version: 3.11.14
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.11.14
+            "5": 0.23.1
+            "10":
+                - 20
+            "12": 0.23.1
+            "13": linux-x86_64
+bs:
+    value: 32
+ckpt_dir:
+    value: /work/lei/mhc-ssm/toy_experiments/checkpoints
+d_model:
+    value: 128
+exp_id:
+    value: H1_SEQ512
+lr:
+    value: 0.001
+mode:
+    value: std_vs_mhc
+n_layers:
+    value: 4
+result_dir:
+    value: /work/lei/mhc-ssm/toy_experiments/results
+seq:
+    value: 512
+steps:
+    value: 12000
+streams:
+    value: 4
+target_acc:
+    value: 0.999
+task:
+    value: copy
+vocab:
+    value: 64

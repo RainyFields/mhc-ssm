@@ -1,0 +1,13 @@
+task: noisy-in-context-recall
+vocab_size: 40       # 30 real tokens + 10 noise tokens
+seq_len: 256
+noise_vocab_size: 10
+frac_noise: 0.25     # 25% of the sequence will be noise
+multi_query: False
+target_ignore_idx: -100
+
+training:
+  batch_size: 64
+  max_train_steps: 25000  # Give it a bit more room for the copying task
+  validate_every: 1000
+  validation_samples: 512 # How many samples to check accuracy on

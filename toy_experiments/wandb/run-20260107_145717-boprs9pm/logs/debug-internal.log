@@ -1,0 +1,12 @@
+{"time":"2026-01-07T14:57:18.171717831Z","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2026-01-07T14:57:18.570300031Z","level":"INFO","msg":"stream: created new stream","id":"boprs9pm"}
+{"time":"2026-01-07T14:57:18.570480917Z","level":"INFO","msg":"handler: started","stream_id":"boprs9pm"}
+{"time":"2026-01-07T14:57:18.570544625Z","level":"INFO","msg":"stream: started","id":"boprs9pm"}
+{"time":"2026-01-07T14:57:18.570554316Z","level":"INFO","msg":"writer: started","stream_id":"boprs9pm"}
+{"time":"2026-01-07T14:57:18.570562314Z","level":"INFO","msg":"sender: started","stream_id":"boprs9pm"}
+{"time":"2026-01-07T18:22:35.503810775Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-07T18:22:35.727076715Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-01-07T18:22:35.72956591Z","level":"INFO","msg":"stream: closing","id":"boprs9pm"}
+{"time":"2026-01-07T18:22:35.729580302Z","level":"INFO","msg":"handler: closed","stream_id":"boprs9pm"}
+{"time":"2026-01-07T18:22:35.729659509Z","level":"INFO","msg":"sender: closed","stream_id":"boprs9pm"}
+{"time":"2026-01-07T18:22:35.729670099Z","level":"INFO","msg":"stream: closed","id":"boprs9pm"}
