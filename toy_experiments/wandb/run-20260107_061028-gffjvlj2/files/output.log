@@ -1,4 +1,0 @@
---> Starting: standard | H1_SEQ128_std
-    Params: 0.6792M
-standard Step 7999: Loss 1.0698 | Acc 0.6458
-Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H1_SEQ128_std.pth

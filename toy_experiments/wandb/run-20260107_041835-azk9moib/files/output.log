@@ -1,4 +1,0 @@
---> Starting: mhc | H2_VOC4096_mhc
-    Params: 1.7155M
-mhc Step 11999: Loss 8.3179 | Acc 0.0002
-Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H2_VOC4096_mhc.pth

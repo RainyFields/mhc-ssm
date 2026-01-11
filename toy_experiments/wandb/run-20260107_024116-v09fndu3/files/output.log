@@ -1,4 +1,0 @@
---> Starting: standard | H5_MQAR_std
-    Params: 0.6792M
-standard Step 9999: Loss 3.1016 | Acc 0.1562
-Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H5_MQAR_std.pth

@@ -1,4 +1,0 @@
---> Starting: mhc | H1_SEQ256_mhc
-    Params: 0.6792M
-mhc Step 7999: Loss 2.2074 | Acc 0.2891
-Saved model to /work/lei/mhc-ssm/toy_experiments/checkpoints/H1_SEQ256_mhc.pth
